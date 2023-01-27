@@ -1,0 +1,50 @@
+
+
+
+
+.page{
+
+        width: 800px;
+        height: 650px;
+        border: 5px solid black;
+        margin: auto;
+        margin-top: 50px;
+        padding: 30px;
+        position: relative;
+
+        
+        
+}
+.image1{
+        width: 100px;
+        height: 100px;
+        padding: 30px;
+       /* border-radius: 50%;*/
+        
+      
+}
+.h3{
+
+     position: absolute;  
+     left: 650px;
+     top: 100px;
+
+
+
+}
+.h6{
+
+     position: absolute;
+     left: 700px;
+     top: 120px;
+
+}
+.anchor{
+
+         bottom: 30px;
+         left: 650px;
+         position: absolute;
+}
+
+
+
